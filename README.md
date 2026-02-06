@@ -48,7 +48,7 @@ See hardware.md for full details.
 - Video inference outputs are stored in results/videos
 
 ## Why This Project?
-Most benchmarks focus only on static accuracy metrics. Detector Arena emphasizes:
+Most benchmarks focus only on static accuracy metrics. DetectorModelVersus emphasizes:
 - Practical deployment behavior
 - Compute efficiency
 - Visual detection quality in motion
@@ -59,4 +59,4 @@ This makes the results more useful for real-world production systems.
 Agbaje Ayomipo  
 Data Scientist | Computer Vision Enthusiast
 
-Weekly insights and breakdowns are shared on LinkedIn.
+Weekly insights and breakdowns are shared on LinkedIn(
