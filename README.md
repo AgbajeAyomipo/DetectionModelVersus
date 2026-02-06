@@ -59,4 +59,4 @@ This makes the results more useful for real-world production systems.
 Agbaje Ayomipo  
 Data Scientist | Computer Vision Enthusiast
 
-Weekly insights and breakdowns are shared on LinkedIn. [https://www.linkedin.com/in/agbaje-ayomipo-gmcpn-6b742423b/](Here)
+Weekly insights and breakdowns are shared on LinkedIn. [Here](https://www.linkedin.com/in/agbaje-ayomipo-gmcpn-6b742423b/)
