@@ -12,6 +12,28 @@ Every week, two models are trained under identical conditions, evaluated, and co
 - RT-DETR (l, x)
 - RF-DETR (Nano, Small, Medium, Large, XLarge, 2XLarge)
 
+## Weekly Model Pairings:
+
+- Week 1: YOLO11n vs RFDETRNano
+
+- Week 2: YOLO26n vs YOLO11s
+
+- Week 3: YOLO26s vs RFDETRSmall
+
+- Week 4: YOLO11m vs RFDETRMedium
+
+- Week 5: YOLO26m vs YOLO11l
+
+- Week 6: RFDETRLarge vs RTDETRl
+
+- Week 7: YOLO26l vs YOLO11x
+
+- Week 8: YOLO26x vs RTDETRx
+
+- Week 9: RFDETRXLarge vs RFDETR2XLarge
+
+- Week 10: Final recap & cross-model analysis
+
 ## Evaluation Focus
 
 ### Accuracy Metrics
@@ -44,7 +66,6 @@ See hardware.md for full details.
 
 ## Results
 - Weekly results are stored in the benchmarks directory
-- Aggregate comparisons are available in leaderboard.md
 - Video inference outputs are stored in results/videos
 
 ## Why This Project?
