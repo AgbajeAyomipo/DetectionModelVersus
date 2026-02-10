@@ -2,7 +2,7 @@
 **A Real-World Benchmark of Modern Object Detection Models**
 
 ## Overview
-Detector Arena is a long-running benchmark project focused on training, evaluating, and comparing state-of-the-art object detection models using both quantitative metrics and real-world video inference.
+DetectionModelVersus is a newly-running benchmark project focused on training, evaluating, and comparing state-of-the-art object detection models using both quantitative metrics and real-world video inference.
 
 Every week, two models are trained under identical conditions, evaluated, and compared. Results are published publicly and discussed on LinkedIn.
 
