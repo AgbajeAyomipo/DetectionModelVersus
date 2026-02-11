@@ -1,0 +1,1 @@
+- please read through the weekly report as the hardware may vary per comparison but will always be consistent across the two compared models
